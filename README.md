@@ -37,7 +37,7 @@ Syntecxhub_Face_Detection_Recognition/
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/Syntecxhub_Face_Detection_Recognition.git
+git clone https://github.com/ishaa109/Syntecxhub_Face_Detection_Recognition
 
 2. Install required libraries
 
